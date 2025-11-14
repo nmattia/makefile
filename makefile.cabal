@@ -14,7 +14,7 @@ description:
   Makefile from a Text @txt@, run 'parseMakefileContents txt`.
   To encode a @Makefile@, run 'encodeMakefile'.
 
-homepage:               http://github.com/nmattia/mask
+homepage:               http://github.com/nmattia/makefile
 license:                MIT
 license-file:           LICENSE
 author:                 Nicolas Mattia
@@ -31,7 +31,7 @@ extra-source-files:
 
 source-repository head
   type:     git
-  location: https://github.com/nmattia/mask.git
+  location: https://github.com/nmattia/makefile.git
 
 library
   hs-source-dirs:       src

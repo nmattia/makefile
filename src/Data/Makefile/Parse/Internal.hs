@@ -8,7 +8,6 @@ import Control.Monad
 import Data.Foldable
 import           Data.Attoparsec.Text
 import           Data.Makefile
-import Data.Monoid
 import Control.Applicative
 
 import qualified Data.Attoparsec.Text as Atto

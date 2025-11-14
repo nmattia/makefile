@@ -12,7 +12,6 @@ import Data.Makefile.Parse
 import Data.Makefile.Parse.Internal
 import Data.Makefile.Render
 import Data.Makefile.Render.Internal
-import Data.Monoid
 import Test.DocTest (doctest)
 import Test.QuickCheck
 import Test.Tasty (defaultMain, testGroup, TestTree)

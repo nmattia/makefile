@@ -2,7 +2,6 @@
 
 module Data.Makefile.Render.Internal where
 import           Data.Makefile
-import           Data.Monoid
 import qualified Data.Text.Lazy as TL
 import qualified Data.Text.Lazy.IO as TL
 import Data.Text.Lazy.Builder
